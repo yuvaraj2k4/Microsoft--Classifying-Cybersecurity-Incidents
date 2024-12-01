@@ -2,6 +2,7 @@
 This project focuses on leveraging machine learning to enhance the efficiency of Security Operation Centers (SOCs) by classifying cybersecurity incidents into triage grades
 
 Key Features:
+
 Data Preprocessing: Handling missing values, feature engineering, and scaling to prepare the dataset for analysis.
 Machine Learning Models: Training, evaluating, and tuning classification models (e.g., Random Forest, Gradient Boosting) with a focus on handling imbalanced datasets.
 Performance Metrics: Evaluating the model using Macro-F1 Score, Precision, and Recall to ensure balanced performance across all triage classes.
